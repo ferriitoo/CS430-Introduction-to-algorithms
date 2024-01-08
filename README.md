@@ -10,7 +10,7 @@ This subject provides its students with a solid understanding on algorithmic con
 
 ---
 
-<img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution_2.png" width="500"/><img src="https://github.com/ferriitoo/MATH-569-Statistical-Learning/blob/main/images_hw1/gaussian_distribution.png" width="500"/>  
+<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw1/series_algorithms.png" width="500"/>
 
 ---
 
@@ -19,11 +19,18 @@ This subject provides its students with a solid understanding on algorithmic con
 
 ---
 
+<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw2/accumulated_density_function_simulation.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw2/accumulated_density_function_theoretical.png
+" width="500"/>
+
 ---
 
 📁 ***_HOMEWORK 3:_***
 
 ---
+
+<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw3/Fibonacci_runtime.png
+" width="500"/>
 
 ---
 
@@ -31,12 +38,11 @@ This subject provides its students with a solid understanding on algorithmic con
 
 ---
 
+<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw4/google.jpg" width="500"/>
+<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw4/pagerank.png" width="500"/>
+
 Google Page Rank - Search Engine
 
 ---
 
-📁 ***_HOMEWORK 5:_***
 
----
-
----
