@@ -1,6 +1,6 @@
 ***Author: Julen Ferro 🚗***
 
-# ***_ZZZZZ_*** 🛠️
+# ***_INTRODUCTION TO ALGORITHMS_*** 🛠️
 
 This repository contains the Homework assignments and experiments carried out for the Introduction to Algortihms subject, at Illinois Institute of Technology for the Master´s degree in Computational Decision Science & Operations Research.
 
@@ -14,14 +14,12 @@ This subject provides its students with a solid understanding on algorithmic con
 
 ---
 
-
 📁 ***_HOMEWORK 2:_***
 
 ---
 
 <img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw2/accumulated_density_function_simulation.png" width="500"/>
-<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw2/accumulated_density_function_theoretical.png
-" width="500"/>
+<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw2/accumulated_density_function_theoretical.png"width="500"/>
 
 ---
 
