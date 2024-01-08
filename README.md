@@ -18,6 +18,8 @@ This subject provides its students with a solid understanding on algorithmic con
 
 ---
 
+Comparing the simulated Accumulated probability Density Function with sampling vs the real density function.
+
 <img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw2/accumulated_density_function_simulation.png" width="500"/>
 <img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw2/accumulated_density_function_theoretical.png"width="500"/>
 
@@ -26,6 +28,8 @@ This subject provides its students with a solid understanding on algorithmic con
 📁 ***_HOMEWORK 3:_***
 
 ---
+
+Comparing the runtime complexity of the well-known Fibonacci series by employing memoization vs without utilizing memoizationç
 
 <img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw3/Fibonacci_runtime.png" width="500"/>
 
