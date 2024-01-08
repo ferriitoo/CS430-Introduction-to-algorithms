@@ -27,8 +27,7 @@ This subject provides its students with a solid understanding on algorithmic con
 
 ---
 
-<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw3/Fibonacci_runtime.png
-" width="500"/>
+<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw3/Fibonacci_runtime.png" width="500"/>
 
 ---
 
@@ -36,10 +35,11 @@ This subject provides its students with a solid understanding on algorithmic con
 
 ---
 
-<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw4/google.jpg" width="500"/>
-<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw4/pagerank.png" width="500"/>
-
 Google Page Rank - Search Engine
+
+<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw4/pagerank.png" width="500"/>
+<img src="https://github.com/ferriitoo/CS430-Introduction-to-algorithms/blob/main/results_hw4/google.jpg" width="500"/>
+
 
 ---
 
